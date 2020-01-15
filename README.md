@@ -5,11 +5,11 @@ The detailed explanation of TORCS for AI research . (https://arxiv.org/pdf/1304.
 
 # Requirements
 
-Python 2.7
-Tensorflow 0.12.1
-PyTorch 0.4.1
-Keras 1.2.2
-xautomation
+Python 2.7<br />
+Tensorflow 0.12.1<br />
+PyTorch 0.4.1<br />
+Keras 1.2.2<br />
+xautomation<br />
 
 
 
